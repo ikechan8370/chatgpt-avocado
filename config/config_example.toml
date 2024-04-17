@@ -1,0 +1,11 @@
+[openai]
+base_url = "https://api.openai.com"
+model = "gpt_3.5_turbo"
+api_key = "sk_xxx"
+temperature = 0.5
+max_tokens = 100
+top_p = 1.0
+frequency_penalty = 0.0
+presence_penalty = 0.0
+system = "You are ChatGPT"
+
